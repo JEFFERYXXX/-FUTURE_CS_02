@@ -1,1 +1,3 @@
 # -FUTURE_CS_02
+
+This was for educational purpose only and users involved in this were of consent...
